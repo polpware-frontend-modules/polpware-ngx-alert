@@ -15,3 +15,4 @@ export interface IAlertProvider {
 export interface IHasAlertFeature {
     alertProvider: IAlertProvider;
 }
+//# sourceMappingURL=interfaces.d.ts.map

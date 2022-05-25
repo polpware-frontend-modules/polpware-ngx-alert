@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ngx-alert
+ */
+export * from './lib/interfaces';
+export * from './lib/alert-default-impl';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL3BvbHB3YXJlL25neC1hbGVydC9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsa0JBQWtCLENBQUM7QUFDakMsY0FBYywwQkFBMEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygbmd4LWFsZXJ0XG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvaW50ZXJmYWNlcyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9hbGVydC1kZWZhdWx0LWltcGwnO1xuIl19

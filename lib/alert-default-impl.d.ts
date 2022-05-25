@@ -8,3 +8,4 @@ export declare class AlertDefaultImpl implements IAlertProvider {
     warning(m: string, timeout?: number): void;
     danger(m: string, timeout?: number): void;
 }
+//# sourceMappingURL=alert-default-impl.d.ts.map
