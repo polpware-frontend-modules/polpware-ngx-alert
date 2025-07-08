@@ -1,4 +1,4 @@
-export declare type AlertType = 'info' | 'warning' | 'success' | 'danger';
+export type AlertType = 'info' | 'warning' | 'success' | 'danger';
 export interface IAlertItem {
     type: AlertType;
     message: string;
