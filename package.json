@@ -2,17 +2,13 @@
   "name": "@polpware/ngx-alert",
   "version": "13.0.0",
   "peerDependencies": {
-    "@angular/common": "^15.0.0",
-    "@angular/core": "^15.0.0"
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
   },
-  "module": "fesm2015/polpware-ngx-alert.mjs",
-  "es2020": "fesm2020/polpware-ngx-alert.mjs",
-  "esm2020": "esm2020/polpware-ngx-alert.mjs",
-  "fesm2020": "fesm2020/polpware-ngx-alert.mjs",
-  "fesm2015": "fesm2015/polpware-ngx-alert.mjs",
+  "module": "fesm2022/polpware-ngx-alert.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -20,11 +16,9 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2020": "./esm2020/polpware-ngx-alert.mjs",
-      "es2020": "./fesm2020/polpware-ngx-alert.mjs",
-      "es2015": "./fesm2015/polpware-ngx-alert.mjs",
-      "node": "./fesm2015/polpware-ngx-alert.mjs",
-      "default": "./fesm2020/polpware-ngx-alert.mjs"
+      "esm2022": "./esm2022/polpware-ngx-alert.mjs",
+      "esm": "./esm2022/polpware-ngx-alert.mjs",
+      "default": "./fesm2022/polpware-ngx-alert.mjs"
     }
   },
   "sideEffects": false,
